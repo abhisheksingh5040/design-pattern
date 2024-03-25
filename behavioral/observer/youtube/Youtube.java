@@ -1,4 +1,4 @@
-package behavioral.observal.youtube;
+package behavioral.observer.youtube;
 
 import java.util.ArrayList;
 import java.util.List;

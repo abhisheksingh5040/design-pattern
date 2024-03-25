@@ -1,4 +1,4 @@
-package behavioral.observal.youtube;
+package behavioral.observer.youtube;
 
 public class Main {
 

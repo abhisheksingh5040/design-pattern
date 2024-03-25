@@ -1,4 +1,4 @@
-package behavioral.observal.weatherstation;
+package behavioral.observer.weatherstation;
 
 import java.util.ArrayList;
 import java.util.List;
