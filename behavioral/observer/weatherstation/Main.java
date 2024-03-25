@@ -1,4 +1,4 @@
-package behavioral.observal.weatherstation;
+package behavioral.observer.weatherstation;
 
 public class Main {
 

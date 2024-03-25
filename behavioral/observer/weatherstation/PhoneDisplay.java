@@ -1,9 +1,8 @@
-package behavioral.observal.weatherstation;
+package behavioral.observer.weatherstation;
 
-public class TvDisplay implements Observer {
+public class PhoneDisplay implements Observer {
 
     private String weather;
-
     @Override
     public void update(String weather) {
         this.weather = weather;
